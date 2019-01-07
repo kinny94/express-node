@@ -1,0 +1,23 @@
+{
+  "name": "express-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinny94/express-node.git"
+  },
+  "author": "Arjun Dass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinny94/express-node/issues"
+  },
+  "homepage": "https://github.com/kinny94/express-node#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
